@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#0f172a" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <g stroke="url(#accent)" stroke-opacity="0.35" fill="none" stroke-width="1.5">
+    <path d="M880 60 L960 110 L1050 70 L1120 140 L1010 190 L960 110"/>
+    <path d="M1010 190 L900 200 L880 60"/>
+  </g>
+  <g fill="url(#accent)">
+    <circle cx="880" cy="60" r="6"/><circle cx="960" cy="110" r="8"/><circle cx="1050" cy="70" r="5"/>
+    <circle cx="1120" cy="140" r="6"/><circle cx="1010" cy="190" r="7"/><circle cx="900" cy="200" r="5"/>
+  </g>
+  <text x="70" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#0f172a">Do Thanh Duc</text>
+  <rect x="72" y="128" width="120" height="4" rx="2" fill="url(#accent)"/>
+  <text x="70" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#334155">AI Engineer · NLP &amp; LLM Researcher</text>
+  <text x="70" y="208" font-family="Fira Code, Consolas, monospace" font-size="17" fill="#64748b">LLMs · RAG · AI Agents · Speech/ASR · Financial Document QA</text>
+</svg>
