@@ -18,9 +18,9 @@ I'm an **AI Engineer at C-OpenAI** and an **MSc student in Computer Science at H
 | Project | What I work on |
 |---------|----------------|
 | **Agent Runtime** | Core service of the AI Platform: runs ReAct agents and streams each step over SSE. I own **context engineering** (Context Builder, Context Compaction) and build multimodal document understanding with grounded citations; I also contribute to human-in-the-loop pause/resume and multi-agent plan approval. |
-| **KA-KB** — Knowledge Agent & Knowledge Base | RAG knowledge base with **multimodal** document processing, so agents can answer from many document formats with citations. |
+| **KA-KB** — Knowledge Agent & Knowledge Base | RAG knowledge base with **multimodal** document processing, so agents can answer from many document formats with citations. Structure-preserving chunking raised Context Recall 0.60 → 0.68 (RAGAS). |
 | **PC1** — Workflow Agent | Automated business operations with workflow agents; delivered a payment-document **matching and processing** system. |
-| **Voice Fubon** — Speech AI | Vietnamese **ASR + speaker diarization** service for customer consulting and care. Deployed on-premise, with a backward-compatible API layer that kept the client's existing integration contract. |
+| **Voice Fubon** — Speech AI | Vietnamese **ASR + speaker diarization** service for customer consulting and care. Deployed on-premise, with a backward-compatible API layer that kept the client's existing integration contract. Acceptance test: **ASR 97.6%**, **diarization 96.2%**, 16.8 min of audio per minute on CPU. |
 
 **MobiFone IT Center** — AI Engineer, Core NLP Team · *Aug 2025 – Apr 2026*
 - Enterprise RAG chatbot on LangGraph: query rewriting with GPT-OSS-20B (**+12.5% NDCG@5**); answer quality on par with GPT-4o (LLM-as-a-Judge, 482 questions).
