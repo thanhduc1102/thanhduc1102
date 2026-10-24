@@ -17,10 +17,10 @@ I'm an **AI Engineer at C-OpenAI** and an **MSc student in Computer Science at H
 
 | Project | What I work on |
 |---------|----------------|
-| **Agent Runtime** | Core service of the AI Platform: runs ReAct agents and streams each step over SSE. I own the **Context Builder** and **Context Compaction**, plus human-in-the-loop pause/resume, multi-agent planning and file handling. |
+| **Agent Runtime** | Core service of the AI Platform: runs ReAct agents and streams each step over SSE. I own **context engineering** (Context Builder, Context Compaction) and build multimodal document understanding with grounded citations; I also contribute to human-in-the-loop pause/resume and multi-agent plan approval. |
 | **KA-KB** — Knowledge Agent & Knowledge Base | RAG knowledge base with **multimodal** document processing, so agents can answer from many document formats with citations. |
 | **PC1** — Workflow Agent | Automated business operations with workflow agents; delivered a payment-document **matching and processing** system. |
-| **Voice Fubon** — Speech AI | Vietnamese **ASR + speaker diarization** service for customer consulting and care. I deployed it on-premise, added a backward-compatible API layer, and wrote the handover. |
+| **Voice Fubon** — Speech AI | Vietnamese **ASR + speaker diarization** service for customer consulting and care. Deployed on-premise, with a backward-compatible API layer that kept the client's existing integration contract. |
 
 **MobiFone IT Center** — AI Engineer, Core NLP Team · *Aug 2025 – Apr 2026*
 - Enterprise RAG chatbot on LangGraph: query rewriting with GPT-OSS-20B (**+12.5% NDCG@5**); answer quality on par with GPT-4o (LLM-as-a-Judge, 482 questions).
@@ -38,13 +38,13 @@ I'm an **AI Engineer at C-OpenAI** and an **MSc student in Computer Science at H
 - **Do Thanh Duc**, Nguyen Nhat Minh, Le Thanh Huong. *AI_TLfanClub at FinMMEval 2026 Task 2: FiSCO-RAG for Cross-Lingual Evidence Recall in Financial Question Answering.* CLEF 2026 Working Notes, CEUR-WS Vol-4283, pp. 2864–2879. [[PDF]](https://ceur-ws.org/Vol-4283/paper210.pdf)
 - **Do Thanh Duc**, Nguyen Nhat Minh, Le Thanh Huong. *AI_TLfanclub at FinMMEval 2026 Task 1: Distilled Qwen Models for Multilingual Financial Exam Question Answering.* CLEF 2026 Working Notes, CEUR-WS Vol-4283, pp. 2853–2863. [[PDF]](https://ceur-ws.org/Vol-4283/paper209.pdf)
 
-**Ongoing**
+**Results & ongoing work**
 
 | | Topic | Status |
 |---|-------|--------|
-| **LEDGER** | Fact-level retrieval and selective answering for numerical QA over financial reports | Paper in progress |
-| **VLSP 2026 ViNumQA** | Program generation for Vietnamese financial QA over text, tables and charts | Shared task |
-| **Neurosymbolic QA** | NL→FOL with RAG + Prover9 proofs; top-7 at the IJCNN 2025 challenge | Completed |
+| **VLSP 2026 ViTNumChart** | Multimodal numerical reasoning over Vietnamese financial reports (text, tables, charts) with ≤8B models | 🥇 **1st place** (1/9), Program Accuracy 79.17% |
+| **LEDGER** | Fact-level retrieval and selective answering for numerical QA over financial reports | Paper in preparation |
+| **Neurosymbolic QA** | NL→FOL with RAG + Prover9 proofs | Top-7, IJCNN 2025 challenge |
 
 ## 🛠️ Stack
 
