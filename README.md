@@ -34,10 +34,15 @@ I'm an **AI Engineer at C-OpenAI** and an **MSc student in Computer Science at H
 
 ## 🔬 Research
 
+**Publications**
+- **Do Thanh Duc**, Nguyen Nhat Minh, Le Thanh Huong. *AI_TLfanClub at FinMMEval 2026 Task 2: FiSCO-RAG for Cross-Lingual Evidence Recall in Financial Question Answering.* CLEF 2026 Working Notes, CEUR-WS Vol-4283, pp. 2864–2879. [[PDF]](https://ceur-ws.org/Vol-4283/paper210.pdf)
+- **Do Thanh Duc**, Nguyen Nhat Minh, Le Thanh Huong. *AI_TLfanclub at FinMMEval 2026 Task 1: Distilled Qwen Models for Multilingual Financial Exam Question Answering.* CLEF 2026 Working Notes, CEUR-WS Vol-4283, pp. 2853–2863. [[PDF]](https://ceur-ws.org/Vol-4283/paper209.pdf)
+
+**Ongoing**
+
 | | Topic | Status |
 |---|-------|--------|
 | **LEDGER** | Fact-level retrieval and selective answering for numerical QA over financial reports | Paper in progress |
-| **CLEF 2026 FinMMEval** | Financial multimodal and multilingual QA | Shared task |
 | **VLSP 2026 ViNumQA** | Program generation for Vietnamese financial QA over text, tables and charts | Shared task |
 | **Neurosymbolic QA** | NL→FOL with RAG + Prover9 proofs; top-7 at the IJCNN 2025 challenge | Completed |
 
