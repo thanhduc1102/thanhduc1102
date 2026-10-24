@@ -24,6 +24,6 @@
   </g>
   <text x="70" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#0f172a">Do Thanh Duc</text>
   <rect x="72" y="128" width="120" height="4" rx="2" fill="url(#accent)"/>
-  <text x="70" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#334155">AI Engineer · NLP &amp; LLM Researcher</text>
-  <text x="70" y="208" font-family="Fira Code, Consolas, monospace" font-size="17" fill="#64748b">LLMs · RAG · AI Agents · Speech/ASR · Financial Document QA</text>
+  <text x="70" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#334155">AI Engineer @ C-OpenAI · Agentic AI &amp; LLM Systems</text>
+  <text x="70" y="208" font-family="Fira Code, Consolas, monospace" font-size="17" fill="#64748b">Agent Runtime · RAG &amp; Knowledge Base · Workflow Agents · Speech/ASR</text>
 </svg>
